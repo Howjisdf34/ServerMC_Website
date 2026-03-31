@@ -1,0 +1,3 @@
+#COMANDO PARA SUBIR TODO AL REPOSITORIO EN LA RAMA PRINCIPAL 
+
+-git push -u origin master

@@ -185,7 +185,7 @@ function copyIP() {
 // Cuando tengas tu IP real, cámbiala en SERVER_IP.
 // También puedes cambiar a tu propia API backend.
 //
-const SERVER_IP = 'play.ohmdail.net'; // ← Cambia esto a tu IP real
+const SERVER_IP = 'ohmdail.playit.pub:5439'; // ← Cambia esto a tu IP real
 
 async function checkServerStatus() {
   const statusDot = document.getElementById('statusDot');
